@@ -1,0 +1,13 @@
+.important {
+  width: 700px;
+}
+
+.title {
+  text-decoration: underline;
+  text-transform: uppercase;
+  color: #800000;
+}
+
+body {
+  background-color: #8aacb8;
+}
