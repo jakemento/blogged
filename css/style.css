@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: #e0e0e0;
+}
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: yellow;
+
+}
+
+.veryimportant {
+  color: red;
+  font-weight: bolder;
+}
+
+.aboutme {
+  color: blue;
+  font-family: fantasy;
+}
